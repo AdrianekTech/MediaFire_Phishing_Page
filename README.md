@@ -3,8 +3,8 @@ PHP files for the MediaFire phishing site
 Termux COMMANDS:
 
 pkg update && pkg upgrade
-pkg install nano 
 
+pkg install nano 
 
 pkg install git 
 
